@@ -1,2 +1,2 @@
 # Android with Kotlin
-# Upcoming more examples with Kotlin in android
+## There are upcoming more examples with Kotlin in android
