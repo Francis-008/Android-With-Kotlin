@@ -7,7 +7,7 @@ import com.example.mvvm.Entity.Task
 
 
 @Dao
-interface Dao {
+ interface TaskDao {
 
     @Insert
     fun insert(task : Task)
